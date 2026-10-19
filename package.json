@@ -1,0 +1,20 @@
+{
+  "name": "@raushang4/agent-latency-bench",
+  "version": "1.0.0",
+  "description": "Benchmark and latency profiling suite comparing Synchronous Tool Serialization vs. Speculative Execution for LLM Agents by Raushang4 Technology.",
+  "main": "index.js",
+  "bin": {
+    "agent-bench": "./index.js"
+  },
+  "keywords": [
+    "llm",
+    "agents",
+    "latency-benchmark",
+    "speculative-execution",
+    "streaming-ast",
+    "langgraph",
+    "raushang4-technology"
+  ],
+  "author": "Raushan Kumar <contact@raushang4.tech> (https://raushang4.tech)",
+  "license": "MIT"
+}
